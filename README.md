@@ -1,4 +1,4 @@
-# Robo Rumble 2026: Autonomous Grand Prix Entry
+# Robo Rumble 2026: Autonomous Grand Prix
 
 **Student Name:** Respect Kagiso Morupane  
 **Category:** Robo Grand Prix (Autonomous Racing)  
