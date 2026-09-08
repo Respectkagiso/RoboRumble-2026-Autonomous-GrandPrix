@@ -1,30 +1,9 @@
-Technical Drawing & Mechanical BlueprintProject: Robo Grand Prix Autonomous Race Car Drawing Title: 1:10 Scale RWD Chassis Blueprint & Assembly Layout Units: Millimeters (
-mm
-) | Scale: 1:2 | Projection: Third Angle (
-ISO
-) Max Footprint: 
-257
- mm
-×
-190
- mm
-×
-130
- mm
- (Compliant with 
-50
- cm
-×
-50
- cm
- rule) Total Weight: 
-1.15
- kg
- (Compliant with 
-<
-5.0
- kg
- limit)
+Technical Drawing & Mechanical Blueprint
+Project:Robo Grand Prix Autonomous Race Car  
+Drawing Title:1:10 Scale RWD Chassis Blueprint & Assembly Layout  
+Units: Millimeters ($\text{mm}$) | Scale: 1:2 | Projection: Third Angle ($\text{ISO}$)  
+Max Footprint: $257\text{ mm} \times 190\text{ mm} \times 130\text{ mm}$ (Compliant with $50\text{ cm} \times 50\text{ cm}$ rule)  
+Total Weight: $1.15\text{ kg}$ (Compliant with $< 5.0\text{ kg}$ limit) 
 
 Top Plan View & Component Dimensioning |<──────────────────── Overall Length: 257 mm ───────────────────>|
 
