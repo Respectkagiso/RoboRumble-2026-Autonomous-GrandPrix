@@ -5,7 +5,9 @@ Units: Millimeters ($\text{mm}$) | Scale: 1:2 | Projection: Third Angle ($\text{
 Max Footprint: $257\text{ mm} \times 190\text{ mm} \times 130\text{ mm}$ (Compliant with $50\text{ cm} \times 50\text{ cm}$ rule)  
 Total Weight: $1.15\text{ kg}$ (Compliant with $< 5.0\text{ kg}$ limit) 
 
-Top Plan View & Component Dimensioning |<──────────────────── Overall Length: 257 mm ───────────────────>|
+Top Plan View & Component Dimensioning
+
+|<──────────────────── Overall Length: 257 mm ───────────────────>|
 
 +-----------------------------------------------------------------+  ---
 | [Left IR Sensor]       [TF-Luna LiDAR]       [Right IR Sensor]  |   ^
@@ -36,6 +38,12 @@ Top Plan View & Component Dimensioning |<─────────────
     | [O] (Rear Drive)                             (Rear Drive)[O] |         v
     +---+-----------------------------------------------+---+        ---
         |<------------ Wheelbase: 257 mm -------------->|
+
+
+
+
+
+
 Side Elevation View & Height Dimensioning
 
 |<─────────────────────── 257 mm ────────────────────────>|
@@ -52,7 +60,9 @@ Side Elevation View & Height Dimensioning
    +-------+---------------------------------------+-------+             ---
      (O)   |                                       |   (O)                ^ 12 mm Ground Clearance
  [Front Wheel]                                  [Rear Wheel]             v
-===========================================================================--- (Track Surface) 3. Engineering Dimension Summary Table Dimension ParameterValue (mm)Tolerance (mm)Engineering Justification Overall Length$257\text{ mm}$$\pm 1.0\text{ mm}$Fits well within the 
+===========================================================================--- 
+
+(Track Surface) 3. Engineering Dimension Summary Table Dimension ParameterValue (mm)Tolerance (mm)Engineering Justification Overall Length$257\text{ mm}$$\pm 1.0\text{ mm}$Fits well within the 
 500
  mm
  competition constraint. Overall Width$190\text{ mm}$$\pm 1.0\text{ mm}$Standard 1:10 scale track width for high-speed lateral stability. Total Height$130\text{ mm}$$\pm 2.0\text{ mm}$Measured from track surface to the top of the LiDAR tower. Ground Clearance$12\text{ mm}$$\pm 0.5\text{ mm}$Lowers center of gravity while clearing carpet or track joints. LiDAR Elevation$100\text{ mm}$$\pm 1.0\text{ mm}$Eliminates ground surface reflections for clear 
